@@ -45,7 +45,7 @@
 #include "monitor_network.h"
 #include "monitor_binary.h"
 #include "vicesocket.h"
-#include "types.h"
+#include "vicetypes.h"
 #include "uimon.h"
 #include "vsyncapi.h"
 

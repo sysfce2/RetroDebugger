@@ -28,7 +28,7 @@
 #ifndef VICE_INTERFACE_USERPORT_H
 #define VICE_INTERFACE_USERPORT_H
 
-#include "types.h"
+#include "vicetypes.h"
 
 int interface_userport_init_resources(void);
 

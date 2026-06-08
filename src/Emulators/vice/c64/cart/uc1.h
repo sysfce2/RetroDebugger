@@ -29,7 +29,7 @@
 
 #include <stdio.h>
 
-#include "types.h"
+#include "vicetypes.h"
 
 void uc1_config_init(void);
 void uc1_config_setup(uint8_t *rawcart);

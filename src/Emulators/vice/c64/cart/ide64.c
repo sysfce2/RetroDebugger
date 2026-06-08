@@ -64,7 +64,7 @@
 #include "resources.h"
 #include "shortbus.h"
 #include "snapshot.h"
-#include "types.h"
+#include "vicetypes.h"
 #include "util.h"
 #include "vicesocket.h"
 #include "vicii-phi1.h"

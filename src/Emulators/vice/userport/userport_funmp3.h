@@ -29,7 +29,7 @@
 #ifndef VICE_USERPORT_FUNMP3_H
 #define VICE_USERPORT_FUNMP3_H
 
-#include "types.h"
+#include "vicetypes.h"
 
 int  userport_funmp3_resources_init(void);
 void userport_funmp3_resources_shutdown(void);

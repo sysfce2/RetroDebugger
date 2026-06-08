@@ -30,7 +30,7 @@
 
 #include <stdio.h>
 
-#include "types.h"
+#include "vicetypes.h"
 
 void final_v1_freeze(void);
 uint8_t final_v1_roml_read(uint16_t addr);

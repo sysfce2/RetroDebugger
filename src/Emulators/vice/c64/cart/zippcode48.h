@@ -29,7 +29,7 @@
 
 #include <stdio.h>
 
-#include "types.h"
+#include "vicetypes.h"
 
 uint8_t zippcode48_roml_read(uint16_t addr);
 

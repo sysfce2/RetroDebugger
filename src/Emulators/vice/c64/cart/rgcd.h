@@ -29,7 +29,7 @@
 
 #include <stdio.h>
 
-#include "types.h"
+#include "vicetypes.h"
 
 #define RGCD_REV_RGCD_64K  0
 #define RGCD_REV_HUCKY 1

@@ -29,7 +29,7 @@
 
 #include <stdio.h>
 
-#include "types.h"
+#include "vicetypes.h"
 
 void ocean_config_setup(uint8_t *rawcart);
 void ocean_config_init(void);

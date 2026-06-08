@@ -43,7 +43,7 @@
 #include "mon_util.h"
 #include "resources.h"
 #include "serial.h"
-#include "types.h"
+#include "vicetypes.h"
 #include "uimon.h"
 #include "vdrive.h"
 #include "vdrive-command.h"

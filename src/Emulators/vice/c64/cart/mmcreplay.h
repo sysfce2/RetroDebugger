@@ -33,7 +33,7 @@
 #ifndef VICE_MMCREPLAY_H
 #define VICE_MMCREPLAY_H
 
-#include "types.h"
+#include "vicetypes.h"
 
 enum {
     MMCR_TYPE_AUTO = 0,

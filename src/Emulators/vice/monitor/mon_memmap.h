@@ -28,7 +28,7 @@
 #define VICE_MON_MEMMAP_H
 
 #include "montypes.h"
-#include "types.h"
+#include "vicetypes.h"
 
 struct cpuhistory_s {
    CLOCK cycle;

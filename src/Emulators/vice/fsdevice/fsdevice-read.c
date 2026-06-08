@@ -46,7 +46,7 @@
 #include "fsdevicetypes.h"
 #include "lib.h"
 #include "tape.h"
-#include "types.h"
+#include "vicetypes.h"
 #include "vdrive.h"
 
 #include "fsdevice-read.h"

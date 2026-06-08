@@ -27,7 +27,7 @@
 #ifndef VICE_USERPORT_WIC64_H
 #define VICE_USERPORT_WIC64_H
 
-#include "types.h"
+#include "vicetypes.h"
 
 #define WIC64_DEFAULT_TRANSFER_TIMEOUT 1 /* supervise userport transfer */
 #define WIC64_DEFAULT_REMOTE_TIMEOUT 5   /* supervise remote URL fetch */

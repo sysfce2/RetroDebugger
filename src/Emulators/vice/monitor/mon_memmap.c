@@ -43,7 +43,7 @@
 #include "monitor.h"
 #include "montypes.h"
 #include "screenshot.h"
-#include "types.h"
+#include "vicetypes.h"
 
 
 /* Globals */

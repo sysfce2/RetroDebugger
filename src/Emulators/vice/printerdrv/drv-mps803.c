@@ -41,7 +41,7 @@
 #include "palette.h"
 #include "printer.h"
 #include "sysfile.h"
-#include "types.h"
+#include "vicetypes.h"
 
 /* #define DEBUG_MPS803 */
 

@@ -49,7 +49,7 @@
 #include "tape.h"
 #include "tape-snapshot.h"
 #include "tapeport.h"
-#include "types.h"
+#include "vicetypes.h"
 #include "uiapi.h"
 #include "vice-event.h"
 

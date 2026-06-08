@@ -34,7 +34,7 @@
 #include "fsdevice.h"
 #include "lib.h"
 #include "resources.h"
-#include "types.h"
+#include "vicetypes.h"
 
 #include "fsdevice-cmdline-options.h"
 

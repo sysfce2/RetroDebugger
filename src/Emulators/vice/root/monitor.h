@@ -29,7 +29,7 @@
 #ifndef VICE_MONITOR_H
 #define VICE_MONITOR_H
 
-#include "types.h"
+#include "vicetypes.h"
 #include "monitor/asm.h"
 
 /** Generic interface.  **/

@@ -45,7 +45,7 @@
 #include "ram.h"
 #include "resources.h"
 #include "snapshot.h"
-#include "types.h"
+#include "vicetypes.h"
 #include "util.h"
 
 #define CARTRIDGE_INCLUDE_PRIVATE_API

@@ -2266,7 +2266,7 @@
     <ClInclude Include="..\..\..\src\Emulators\vice\arch\rs232dev.h" />
     <ClInclude Include="..\..\..\src\Emulators\vice\arch\rs232net.h" />
     <ClInclude Include="..\..\..\src\Emulators\vice\arch\socketimpl.h" />
-    <ClInclude Include="..\..\..\src\Emulators\vice\root\types.h" />
+    <ClInclude Include="..\..\..\src\Emulators\vice\root\vicetypes.h" />
     <ClInclude Include="..\..\..\src\Emulators\vice\arch\ui.h" />
     <ClInclude Include="..\..\..\src\Emulators\vice\arch\uifilereq.h" />
     <ClInclude Include="..\..\..\src\Emulators\vice\arch\uihotkey.h" />

@@ -30,7 +30,7 @@
 
 #include <stdio.h>
 
-#include "types.h"
+#include "vicetypes.h"
 
 void final_v3_freeze(void);
 void final_v3_config_init(void);

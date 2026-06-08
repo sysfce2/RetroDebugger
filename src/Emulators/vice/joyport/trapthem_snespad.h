@@ -27,7 +27,7 @@
 #ifndef VICE_TRAPTHEM_SNESPAD_H
 #define VICE_TRAPTHEM_SNESPAD_H
 
-#include "types.h"
+#include "vicetypes.h"
 
 int joyport_trapthem_snespad_resources_init(void);
 

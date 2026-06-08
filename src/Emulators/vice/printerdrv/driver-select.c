@@ -38,7 +38,7 @@
 #include "log.h"
 #include "printer.h"
 #include "resources.h"
-#include "types.h"
+#include "vicetypes.h"
 #include "util.h"
 
 

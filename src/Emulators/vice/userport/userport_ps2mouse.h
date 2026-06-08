@@ -29,7 +29,7 @@
 #ifndef VICE_PS2MOUSE_H
 #define VICE_PS2MOUSE_H
 
-#include "types.h"
+#include "vicetypes.h"
 
 int userport_ps2mouse_resources_init(void);
 

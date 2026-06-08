@@ -28,7 +28,7 @@
 #ifndef VICE_LIGHTPEN_H
 #define VICE_LIGHTPEN_H
 
-#include "types.h"
+#include "vicetypes.h"
 #include "joyport.h"
 
 void lightpen_init(void);

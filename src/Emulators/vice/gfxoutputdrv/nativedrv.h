@@ -29,7 +29,7 @@
 #define VICE_NATIVEDRV_H
 
 #include "screenshot.h"
-#include "types.h"
+#include "vicetypes.h"
 
 typedef struct native_data_s {
     uint8_t *colormap;

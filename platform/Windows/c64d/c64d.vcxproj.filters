@@ -4988,7 +4988,7 @@
     <ClInclude Include="..\..\..\src\Emulators\vice\arch\socketimpl.h">
       <Filter>Source Files\src\Emulators\vice\arch</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\src\Emulators\vice\root\types.h">
+    <ClInclude Include="..\..\..\src\Emulators\vice\root\vicetypes.h">
       <Filter>Source Files\src\Emulators\vice\root</Filter>
     </ClInclude>
     <ClInclude Include="..\..\..\src\Emulators\vice\arch\ui.h">

@@ -30,7 +30,7 @@
 
 #include <stdbool.h>
 
-#include "types.h"
+#include "vicetypes.h"
 #include "snapshot.h"
 
 typedef struct mouse_func_s {

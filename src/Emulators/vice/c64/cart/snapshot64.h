@@ -27,7 +27,7 @@
 #ifndef VICE_SNAPSHOT64_H
 #define VICE_SNAPSHOT64_H
 
-#include "types.h"
+#include "vicetypes.h"
 
 uint8_t snapshot64_roml_read(uint16_t addr);
 uint8_t snapshot64_romh_read(uint16_t addr);

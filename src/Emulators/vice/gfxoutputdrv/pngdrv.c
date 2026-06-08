@@ -39,7 +39,7 @@
 #include "lib.h"
 #include "pngdrv.h"
 #include "screenshot.h"
-#include "types.h"
+#include "vicetypes.h"
 #include "util.h"
 
 

@@ -27,7 +27,7 @@
 #ifndef VICE_WORDCRAFTDONGLE_H
 #define VICE_WORDCRAFTDONGLE_H
 
-#include "types.h"
+#include "vicetypes.h"
 
 int wordcraft_dongle_resources_init(int amount);
 

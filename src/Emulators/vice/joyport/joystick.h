@@ -29,7 +29,7 @@
 #ifndef VICE_JOYSTICK_H
 #define VICE_JOYSTICK_H
 
-#include "types.h"
+#include "vicetypes.h"
 #include "joyport.h" /* for JOYPORT_MAX_PORTS */
 #include <stdbool.h>
 #include <stdint.h>

@@ -55,7 +55,7 @@
 #include "sound.h"
 #include "t6721.h"
 #include "tpi.h"
-#include "types.h"
+#include "vicetypes.h"
 #include "util.h"
 #include "crt.h"
 

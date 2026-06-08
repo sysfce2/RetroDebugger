@@ -27,7 +27,7 @@
 #ifndef VICE_NINJA_SNESPAD_H
 #define VICE_NINJA_SNESPAD_H
 
-#include "types.h"
+#include "vicetypes.h"
 
 int joyport_ninja_snespad_resources_init(void);
 

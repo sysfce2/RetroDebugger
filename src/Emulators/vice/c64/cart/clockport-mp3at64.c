@@ -40,7 +40,7 @@
 #include "log.h"
 #include "monitor.h"
 #include "sound.h"
-#include "types.h"
+#include "vicetypes.h"
 #include "uiapi.h"
 
 #include "clockport-mp3at64.h"

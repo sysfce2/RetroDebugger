@@ -36,7 +36,7 @@
 #include "mon_assemble.h"
 #include "mon_register.h"
 #include "montypes.h"
-#include "types.h"
+#include "vicetypes.h"
 
 /* NOTE: 0 is invalid in this table */
 static const int addr_mode_size[ASM_ADDR_MODE_LAST] = {

@@ -27,7 +27,7 @@
 #ifndef VICE_USERPORT_4BIT_SAMPLER_H
 #define VICE_USERPORT_4BIT_SAMPLER_H
 
-#include "types.h"
+#include "vicetypes.h"
 
 int userport_4bit_sampler_resources_init(void);
 int userport_4bit_sampler_cmdline_options_init(void);

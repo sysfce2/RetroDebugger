@@ -27,7 +27,7 @@
 #ifndef VICE_USERPORT_JOYSTICK_H
 #define VICE_USERPORT_JOYSTICK_H
 
-#include "types.h"
+#include "vicetypes.h"
 
 int userport_joystick_cga_resources_init(void);
 int userport_joystick_pet_resources_init(void);

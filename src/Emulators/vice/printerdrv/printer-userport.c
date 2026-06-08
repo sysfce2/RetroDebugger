@@ -28,7 +28,7 @@
 
 #include "interface-userport.h"
 #include "printer.h"
-#include "types.h"
+#include "vicetypes.h"
 #include "log.h"
 
 /* #define DEBUG_PRINTER */

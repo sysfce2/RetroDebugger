@@ -31,7 +31,7 @@
 #include "mon_assemble.h"
 #include "mon_register.h"
 #include "montypes.h"
-#include "types.h"
+#include "vicetypes.h"
 
 /* NOTE: the value from this table is added to the total opcode size, so 0 may
          be valid, is this intended? */

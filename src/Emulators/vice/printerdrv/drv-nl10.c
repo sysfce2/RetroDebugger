@@ -41,7 +41,7 @@
 #include "palette.h"
 #include "printer.h"
 #include "sysfile.h"
-#include "types.h"
+#include "vicetypes.h"
 #include "lib.h"
 #include "userport.h"
 

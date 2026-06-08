@@ -27,7 +27,7 @@
 #ifndef VICE_JOYPORT_IO_SIM_H
 #define VICE_JOYPORT_IO_SIM_H
 
-#include "types.h"
+#include "vicetypes.h"
 
 int joyport_io_sim_resources_init(void);
 

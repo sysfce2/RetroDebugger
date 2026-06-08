@@ -27,7 +27,7 @@
 #ifndef VICE_USERPORT_SUPERPAD64_H
 #define VICE_USERPORT_SUPERPAD64_H
 
-#include "types.h"
+#include "vicetypes.h"
 
 int userport_superpad64_resources_init(void);
 

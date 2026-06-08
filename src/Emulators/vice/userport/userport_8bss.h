@@ -27,7 +27,7 @@
 #ifndef VICE_USERPORT_8BSS_H
 #define VICE_USERPORT_8BSS_H
 
-#include "types.h"
+#include "vicetypes.h"
 
 int userport_8bss_resources_init(void);
 int userport_8bss_cmdline_options_init(void);

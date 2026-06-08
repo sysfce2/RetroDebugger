@@ -27,7 +27,7 @@
 #ifndef VICE_IDE64_H
 #define VICE_IDE64_H
 
-#include "types.h"
+#include "vicetypes.h"
 
 extern char *ide64_image_file;
 

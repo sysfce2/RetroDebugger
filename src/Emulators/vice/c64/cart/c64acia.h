@@ -28,7 +28,7 @@
 #ifndef VICE_C64ACIA_H
 #define VICE_C64ACIA_H
 
-#include "types.h"
+#include "vicetypes.h"
 
 int aciacart_cart_enabled(void);
 void aciacart_init(void);

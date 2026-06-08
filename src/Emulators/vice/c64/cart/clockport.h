@@ -27,7 +27,7 @@
 #ifndef VICE_CLOCKPORT_H
 #define VICE_CLOCKPORT_H
 
-#include "types.h"
+#include "vicetypes.h"
 
 enum {
     CLOCKPORT_DEVICE_NONE = 0,

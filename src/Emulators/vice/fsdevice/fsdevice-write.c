@@ -42,7 +42,7 @@
 #include "fsdevice-read.h"
 #include "fsdevice-write.h"
 #include "fsdevicetypes.h"
-#include "types.h"
+#include "vicetypes.h"
 #include "vdrive.h"
 #include "vdrive/vdrive-command.h"
 

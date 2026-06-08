@@ -39,7 +39,7 @@
 #include "output-select.h"
 #include "output.h"
 #include "resources.h"
-#include "types.h"
+#include "vicetypes.h"
 #include "util.h"
 
 #include "output-text.h"

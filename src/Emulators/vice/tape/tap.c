@@ -38,7 +38,7 @@
 #include "log.h"
 #include "tap.h"
 #include "tape.h"
-#include "types.h"
+#include "vicetypes.h"
 #include "util.h"
 #include "zfile.h"
 #include "machine.h"

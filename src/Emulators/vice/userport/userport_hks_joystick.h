@@ -27,7 +27,7 @@
 #ifndef VICE_USERPORT_HKS_JOYSTICK_H
 #define VICE_USERPORT_HKS_JOYSTICK_H
 
-#include "types.h"
+#include "vicetypes.h"
 
 int userport_joystick_hit_resources_init(void);
 int userport_joystick_kingsoft_resources_init(void);

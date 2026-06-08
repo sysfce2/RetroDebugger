@@ -27,7 +27,7 @@
 #ifndef VICE_WAASOFT_DONGLE_H
 #define VICE_WAASOFT_DONGLE_H
 
-#include "types.h"
+#include "vicetypes.h"
 
 int joyport_waasoft_dongle_resources_init(void);
 

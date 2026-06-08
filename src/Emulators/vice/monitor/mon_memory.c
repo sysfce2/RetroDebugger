@@ -40,7 +40,7 @@
 #include "montypes.h"
 #include "mon_memory.h"
 #include "mon_util.h"
-#include "types.h"
+#include "vicetypes.h"
 
 
 #define ADDR_LIMIT(x) ((uint16_t)(addr_mask(x)))

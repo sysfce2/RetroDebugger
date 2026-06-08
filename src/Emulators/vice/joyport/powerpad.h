@@ -27,7 +27,7 @@
 #ifndef VICE_POWERPAD_H
 #define VICE_POWERPAD_H
 
-#include "types.h"
+#include "vicetypes.h"
 
 int powerpad_register(void);
 

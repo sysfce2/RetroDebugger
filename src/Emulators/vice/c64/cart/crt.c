@@ -36,7 +36,7 @@
 #include "log.h"
 #include "machine.h"
 #include "resources.h"
-#include "types.h"
+#include "vicetypes.h"
 #include "c64cart.h"  /* FIXME: for C64CART_IMAGE_LIMIT */
 #include "util.h"
 

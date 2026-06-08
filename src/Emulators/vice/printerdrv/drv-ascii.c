@@ -38,7 +38,7 @@
 #include "output.h"
 #include "palette.h"
 #include "printer.h"
-#include "types.h"
+#include "vicetypes.h"
 
 /* #define DEBUG_PRINTER */
 

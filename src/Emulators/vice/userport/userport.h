@@ -28,7 +28,7 @@
 #define VICE_USERPORT_H
 
 #include "snapshot.h"
-#include "types.h"
+#include "vicetypes.h"
 
 /* #define USERPORT_EXPERIMENTAL_DEVICES */
 

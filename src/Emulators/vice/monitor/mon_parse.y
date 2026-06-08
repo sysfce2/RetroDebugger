@@ -65,7 +65,7 @@ char *alloca();
 #include "montypes.h"
 #include "tapeport.h"
 #include "resources.h"
-#include "types.h"
+#include "vicetypes.h"
 #include "uimon.h"
 #include "vsync.h"
 #include "mon_profile.h"

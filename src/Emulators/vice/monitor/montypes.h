@@ -32,7 +32,7 @@
 #include <stdbool.h>
 
 #include "monitor.h"
-#include "types.h"
+#include "vicetypes.h"
 
 #if 0
 /* set this to enable experimental 24-bit address space support */

@@ -27,7 +27,7 @@
 #ifndef VICE_SPACEBALLS_H
 #define VICE_SPACEBALLS_H
 
-#include "types.h"
+#include "vicetypes.h"
 
 int joyport_spaceballs_resources_init(void);
 int userport_spaceballs_resources_init(void);

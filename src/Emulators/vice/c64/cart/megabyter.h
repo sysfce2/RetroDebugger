@@ -28,7 +28,7 @@
 #ifndef VICE_MEGABYTER_H
 #define VICE_MEGABYTER_H
 
-#include "types.h"
+#include "vicetypes.h"
 
 extern int megabyter_resources_init(void);
 extern void megabyter_resources_shutdown(void);

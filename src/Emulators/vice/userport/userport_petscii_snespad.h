@@ -27,7 +27,7 @@
 #ifndef VICE_USERPORT_PETSCII_SNESPAD_H
 #define VICE_USERPORT_PETSCII_SNESPAD_H
 
-#include "types.h"
+#include "vicetypes.h"
 
 int userport_petscii_snespad_resources_init(void);
 

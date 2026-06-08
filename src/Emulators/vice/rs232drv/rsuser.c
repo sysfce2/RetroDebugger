@@ -45,7 +45,7 @@
 #include "rs232.h"
 #include "rs232drv.h"
 #include "rsuser.h"
-#include "types.h"
+#include "vicetypes.h"
 #include "userport.h"
 
 static int fd = -1;

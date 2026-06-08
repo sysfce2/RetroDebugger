@@ -30,7 +30,7 @@
 #include "mon_assemble.h"
 #include "mon_register.h"
 #include "montypes.h"
-#include "types.h"
+#include "vicetypes.h"
 
 /* FIXME: 65816/65802 16bit modes are not handled properly, every opcode is
    handled in 8bit mode only */

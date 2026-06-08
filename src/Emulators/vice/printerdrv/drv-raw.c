@@ -35,7 +35,7 @@
 #include "output-select.h"
 #include "output.h"
 #include "printer.h"
-#include "types.h"
+#include "vicetypes.h"
 #include "userport.h"
 
 #ifdef DEBUG_PRINTER

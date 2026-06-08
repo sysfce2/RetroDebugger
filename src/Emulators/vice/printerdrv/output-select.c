@@ -34,7 +34,7 @@
 #include "log.h"
 #include "output-select.h"
 #include "resources.h"
-#include "types.h"
+#include "vicetypes.h"
 #include "util.h"
 
 /* #define DEBUG_PRINTER */

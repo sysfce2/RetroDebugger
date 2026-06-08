@@ -43,7 +43,7 @@
 #include "resources.h"
 #include "snapshot.h"
 #include "supersnapshot.h"
-#include "types.h"
+#include "vicetypes.h"
 #include "util.h"
 #include "crt.h"
 

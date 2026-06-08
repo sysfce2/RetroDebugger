@@ -28,7 +28,7 @@
 #ifndef VICE_PAPERCLIP64E_H
 #define VICE_PAPERCLIP64E_H
 
-#include "types.h"
+#include "vicetypes.h"
 
 int joyport_paperclip64e_resources_init(void);
 

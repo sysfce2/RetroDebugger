@@ -33,7 +33,7 @@
 #ifndef VICE_RAMCART_H
 #define VICE_RAMCART_H
 
-#include "types.h"
+#include "vicetypes.h"
 
 void ramcart_init(void);
 int ramcart_resources_init(void);

@@ -29,7 +29,7 @@
 
 #include <stdio.h>
 
-#include "types.h"
+#include "vicetypes.h"
 
 void turtlegraphics_config_init(void);
 void turtlegraphics_config_setup(uint8_t *rawcart);

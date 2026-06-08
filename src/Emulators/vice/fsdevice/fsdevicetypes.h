@@ -27,7 +27,7 @@
 #ifndef VICE_FSDEVICETYPES_H
 #define VICE_FSDEVICETYPES_H
 
-#include "types.h"
+#include "vicetypes.h"
 #include "ioutil.h"
 
 #define FSDEVICE_BUFFER_MAX 16

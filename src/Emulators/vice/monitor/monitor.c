@@ -86,7 +86,7 @@
 #include "sysfile.h"
 #include "tape.h"
 #include "traps.h"
-#include "types.h"
+#include "vicetypes.h"
 #include "ui.h"
 #include "uiapi.h"
 #include "uimon.h"

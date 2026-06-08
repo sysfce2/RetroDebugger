@@ -40,7 +40,7 @@
 #include "printer.h"
 #include "resources.h"
 #include "serial.h"
-#include "types.h"
+#include "vicetypes.h"
 #include "vdrive.h"
 
 /* #define DEBUG_PRINTER */

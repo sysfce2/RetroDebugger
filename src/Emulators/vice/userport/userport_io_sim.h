@@ -27,7 +27,7 @@
 #ifndef VICE_USERPORT_IO_SIM_H
 #define VICE_USERPORT_IO_SIM_H
 
-#include "types.h"
+#include "vicetypes.h"
 
 int userport_io_sim_resources_init(void);
 

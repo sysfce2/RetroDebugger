@@ -27,7 +27,7 @@
 #ifndef VICE_USERPORT_DIGIMAX_H
 #define VICE_USERPORT_DIGIMAX_H
 
-#include "types.h"
+#include "vicetypes.h"
 #include "sound.h"
 
 int userport_digimax_resources_init(void);

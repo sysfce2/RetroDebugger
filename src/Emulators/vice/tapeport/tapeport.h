@@ -28,7 +28,7 @@
 #define VICE_TAPEPORT_H
 
 #include "snapshot.h"
-#include "types.h"
+#include "vicetypes.h"
 
 /* #define TAPEPORT_EXPERIMENTAL_DEVICES */
 

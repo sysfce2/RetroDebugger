@@ -13,7 +13,7 @@
 #include <stdio.h>
 #include <string.h>
 
-#include "types.h"
+#include "vicetypes.h"
 #include "montypes.h"
 #include "mon_profile.h"
 #include "monitor.h"

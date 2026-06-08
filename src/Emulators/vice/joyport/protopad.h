@@ -27,7 +27,7 @@
 #ifndef VICE_PROTOPAD_SNESPAD_H
 #define VICE_PROTOPAD_SNESPAD_H
 
-#include "types.h"
+#include "vicetypes.h"
 
 enum {
     PROTOPAD_HANDSHAKE = 0,

@@ -29,7 +29,7 @@
 
 #include <stdio.h>
 
-#include "types.h"
+#include "vicetypes.h"
 
 void hyperbasic_reset(void);
 void hyperbasic_config_init(void);

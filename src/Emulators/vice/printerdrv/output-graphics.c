@@ -40,7 +40,7 @@
 #include "palette.h"
 #include "resources.h"
 #include "screenshot.h"
-#include "types.h"
+#include "vicetypes.h"
 #include "util.h"
 
 /* #define DEBUG_PRINTER */

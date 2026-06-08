@@ -28,7 +28,7 @@
 #define VICE_JOYPORT_H
 
 #include "snapshot.h"
-#include "types.h"
+#include "vicetypes.h"
 
 /* #define JOYPORT_EXPERIMENTAL_DEVICES */
 

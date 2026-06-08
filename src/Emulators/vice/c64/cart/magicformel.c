@@ -125,7 +125,7 @@ CB2            - enable Cartridge (?)
 #include "mc6821core.h"
 #include "ram.h"
 #include "snapshot.h"
-#include "types.h"
+#include "vicetypes.h"
 #include "util.h"
 #include "crt.h"
 

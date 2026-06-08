@@ -27,7 +27,7 @@
 #ifndef VICE_DRIVER_SELECT_H
 #define VICE_DRIVER_SELECT_H
 
-#include "types.h"
+#include "vicetypes.h"
 #include <stdbool.h>
 
 /** \brief  Printer driver data */

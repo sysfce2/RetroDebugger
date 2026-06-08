@@ -34,7 +34,7 @@
 
 #include <stdint.h>
 
-#include "types.h"
+#include "vicetypes.h"
 
 int cs8900io_cart_enabled(void);
 

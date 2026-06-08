@@ -29,7 +29,7 @@
 
 #include <stdio.h>
 
-#include "types.h"
+#include "vicetypes.h"
 
 void blackbox3_config_init(void);
 void blackbox3_config_setup(uint8_t *rawcart);

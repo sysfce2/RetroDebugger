@@ -42,7 +42,7 @@
 #include "lib.h"
 #include "log.h"
 #include "machine-drive.h"
-#include "types.h"
+#include "vicetypes.h"
 #include "util.h"
 #include "vdrive-bam.h"
 #include "vdrive-command.h"

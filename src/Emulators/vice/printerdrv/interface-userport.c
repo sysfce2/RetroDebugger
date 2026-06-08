@@ -39,7 +39,7 @@
 #include "printer.h"
 #include "resources.h"
 #include "snapshot.h"
-#include "types.h"
+#include "vicetypes.h"
 #include "joyport.h"
 #include "userport.h"
 

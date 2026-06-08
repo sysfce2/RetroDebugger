@@ -29,7 +29,7 @@
 
 #include <stdio.h>
 
-#include "types.h"
+#include "vicetypes.h"
 
 void mach5_config_init(void);
 void mach5_config_setup(uint8_t *rawcart);

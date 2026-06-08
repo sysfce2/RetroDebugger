@@ -1782,7 +1782,7 @@ char *yytext;
 #include "montypes.h"
 #include "asm.h"
 #include "mon_parse.h"
-#include "types.h"
+#include "vicetypes.h"
 
 
 /* prototype */

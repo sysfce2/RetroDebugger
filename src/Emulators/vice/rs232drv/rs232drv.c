@@ -32,7 +32,7 @@
 #include "resources.h"
 #include "rs232.h"
 #include "rs232drv.h"
-#include "types.h"
+#include "vicetypes.h"
 #include "util.h"
 
 /* NOTE: always declare this array, so the rs232 code compiles without further

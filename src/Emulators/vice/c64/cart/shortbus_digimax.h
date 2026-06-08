@@ -28,7 +28,7 @@
 #define VICE_SHORTBUS_DIGIMAX_H
 
 #include "snapshot.h"
-#include "types.h"
+#include "vicetypes.h"
 
 int shortbus_digimax_resources_init(void);
 void shortbus_digimax_resources_shutdown(void);

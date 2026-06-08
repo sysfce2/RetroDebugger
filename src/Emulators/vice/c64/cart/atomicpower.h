@@ -29,7 +29,7 @@
 
 #include <stdio.h>
 
-#include "types.h"
+#include "vicetypes.h"
 
 uint8_t atomicpower_roml_read(uint16_t addr);
 void atomicpower_roml_store(uint16_t addr, uint8_t value);

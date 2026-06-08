@@ -66,7 +66,7 @@
 #include "script64_dongle.h"
 #include "spaceballs.h"
 #include "trapthem_snespad.h"
-#include "types.h"
+#include "vicetypes.h"
 #include "uiapi.h"
 #include "util.h"
 #include "vizawrite64_dongle.h"

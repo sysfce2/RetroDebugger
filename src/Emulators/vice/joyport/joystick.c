@@ -59,7 +59,7 @@
 #include "resources.h"
 #include "snapshot.h"
 #include "sysfile.h"
-#include "types.h"
+#include "vicetypes.h"
 #include "uiapi.h"
 #include "userport_joystick.h"
 #include "util.h"

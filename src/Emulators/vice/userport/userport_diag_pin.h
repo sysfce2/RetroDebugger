@@ -28,7 +28,7 @@
 #ifndef VICE_USERPORT_DIAG_PIN_H
 #define VICE_USERPORT_DIAG_PIN_H
 
-#include "types.h"
+#include "vicetypes.h"
 
 int userport_diag_pin_resources_init(void);
 int userport_diag_pin_cmdline_options_init(void);

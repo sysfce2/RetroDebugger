@@ -54,7 +54,7 @@
 #include "fsdevicetypes.h"
 #include "lib.h"
 #include "log.h"
-#include "types.h"
+#include "vicetypes.h"
 #include "util.h"
 #include "vdrive-command.h"
 #include "vdrive.h"

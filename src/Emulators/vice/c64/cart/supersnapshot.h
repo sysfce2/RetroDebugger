@@ -27,7 +27,7 @@
 #ifndef VICE_SUPERSNAPSHOT_H
 #define VICE_SUPERSNAPSHOT_H
 
-#include "types.h"
+#include "vicetypes.h"
 
 uint8_t supersnapshot_v5_roml_read(uint16_t addr);
 void supersnapshot_v5_roml_store(uint16_t addr, uint8_t value);

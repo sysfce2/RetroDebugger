@@ -29,7 +29,7 @@
 
 #include <stdio.h>
 
-#include "types.h"
+#include "vicetypes.h"
 
 void warpspeed_config_setup(uint8_t *rawcart);
 int warpspeed_bin_attach(const char *filename, uint8_t *rawcart);

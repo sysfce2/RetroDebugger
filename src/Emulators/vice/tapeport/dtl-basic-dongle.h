@@ -27,7 +27,7 @@
 #ifndef VICE_DTLBASICDONGLE_H
 #define VICE_DTLBASICDONGLE_H
 
-#include "types.h"
+#include "vicetypes.h"
 
 int dtlbasic_dongle_resources_init(int amount);
 

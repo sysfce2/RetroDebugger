@@ -27,7 +27,7 @@
 #ifndef VICE_MULTIJOY_H
 #define VICE_MULTIJOY_H
 
-#include "types.h"
+#include "vicetypes.h"
 
 int joyport_multijoy_resources_init(void);
 

@@ -33,7 +33,7 @@
 #ifndef VICE_DQBB_H
 #define VICE_DQBB_H
 
-#include "types.h"
+#include "vicetypes.h"
 
 #define DQBB_MODE_C64   1
 #define DQBB_MODE_C128  0

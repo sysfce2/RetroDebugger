@@ -47,7 +47,7 @@
 #include "resources.h"
 #include "m93c86.h"
 #include "snapshot.h"
-#include "types.h"
+#include "vicetypes.h"
 #include "util.h"
 #include "vicii-phi1.h"
 

@@ -33,7 +33,7 @@
 #ifndef VICE_ASM_H
 #define VICE_ASM_H
 
-#include "types.h"
+#include "vicetypes.h"
 
 /* CAUTION: when adding stuff to this enum, all addr_mode_size tables in all
             asmXXXX.c files must be updated accordingly */

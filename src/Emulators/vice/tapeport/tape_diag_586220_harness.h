@@ -27,7 +27,7 @@
 #ifndef VICE_TAPE_DIAG_586220_HARNESS_H
 #define VICE_TAPE_DIAG_586220_HARNESS_H
 
-#include "types.h"
+#include "vicetypes.h"
 
 int tape_diag_586220_harness_resources_init(int amount);
 int tape_diag_586220_harness_cmdline_options_init(void);

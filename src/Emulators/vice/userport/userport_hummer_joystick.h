@@ -27,7 +27,7 @@
 #ifndef VICE_USERPORT_HUMMER_JOYSTICK_H
 #define VICE_USERPORT_HUMMER_JOYSTICK_H
 
-#include "types.h"
+#include "vicetypes.h"
 
 int userport_joystick_hummer_resources_init(void);
 

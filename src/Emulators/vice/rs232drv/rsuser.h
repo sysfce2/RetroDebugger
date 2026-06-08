@@ -27,7 +27,7 @@
 #ifndef VICE_RSUSER_H_
 #define VICE_RSUSER_H_
 
-#include "types.h"
+#include "vicetypes.h"
 
 #define TXD_OUT         0x04    /* PA2 */
 #define RXD_IN          0x01    /* PB0 (also connected to !FLAG2) */

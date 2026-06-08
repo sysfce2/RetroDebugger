@@ -42,7 +42,7 @@
 #include "rs232drv.h"
 #include "rs232.h"
 #include "snapshot.h"
-#include "types.h"
+#include "vicetypes.h"
 #include "monitor.h"
 
 uint8_t myacia_read(uint16_t addr);

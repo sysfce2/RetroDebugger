@@ -27,7 +27,7 @@
 #ifndef VICE_INCEPTION_H
 #define VICE_INCEPTION_H
 
-#include "types.h"
+#include "vicetypes.h"
 
 enum {
     INCEPTION_STATE_IDLE = 0,

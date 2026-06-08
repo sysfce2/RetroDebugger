@@ -52,7 +52,7 @@
 #include "rs232.h"
 #include "rs232dev.h"
 #include "rs232net.h"
-#include "types.h"
+#include "vicetypes.h"
 #include "util.h"
 #include "vicesocket.h"
 

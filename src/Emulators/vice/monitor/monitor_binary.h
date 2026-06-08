@@ -29,7 +29,7 @@
 #ifndef VICE_MONITOR_BINARY_H
 #define VICE_MONITOR_BINARY_H
 
-#include "types.h"
+#include "vicetypes.h"
 #include "uiapi.h"
 #include "mon_breakpoint.h"
 #include "vicesocket.h"

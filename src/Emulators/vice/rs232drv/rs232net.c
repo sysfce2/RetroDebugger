@@ -55,7 +55,7 @@
 #include "rs232.h"
 #include "rs232net.h"
 #include "vicesocket.h"
-#include "types.h"
+#include "vicetypes.h"
 #include "util.h"
 #ifdef DEBUG
 #include "ctype.h"

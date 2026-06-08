@@ -27,7 +27,7 @@
 #ifndef VICE_RS232DEV_H
 #define VICE_RS232DEV_H
 
-#include "types.h"
+#include "vicetypes.h"
 
 /* Initializes all RS232 stuff */
 void rs232dev_init(void);
