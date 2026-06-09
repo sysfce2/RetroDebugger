@@ -1,0 +1,28 @@
+name: Windows build
+
+on:
+  push:
+    branches: [ master, main ]
+  pull_request:
+    branches: [ master, main ]
+  workflow_dispatch:
+
+jobs:
+  build-windows:
+    runs-on: windows-latest
+
+    steps:
+      - name: Checkout RetroDebugger
+        uses: actions/checkout@v6
+
+      - name: Build and stage release (no zip; GitHub zips the artifact once)
+        id: release
+        shell: pwsh
+        run: ./tools/make-release/make-release-windows.ps1 -NoZip
+
+      - name: Upload release artifact
+        uses: actions/upload-artifact@v7
+        with:
+          name: ${{ steps.release.outputs.artifact_name }}
+          path: ${{ steps.release.outputs.release_dir }}
+          if-no-files-found: error
