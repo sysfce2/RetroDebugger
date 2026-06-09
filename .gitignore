@@ -37,3 +37,4 @@ core
 !src/Emulators/nestopiaue/core/
 !src/Emulators/nestopiaue/core/*
 !src/Emulators/nestopiaue/core/**/*
+/releases/
