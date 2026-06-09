@@ -16,7 +16,7 @@ pushing.
 
 ## Project Overview
 
-Retro Debugger (v0.64.74) is a real-time debugger for 8-bit computers: Commodore 64, Atari XL/XE, and NES. It embeds full emulator engines (VICE v3.10-WIP, Atari800, NestopiaUE) and provides cycle-accurate debugging through an ImGui-based interface. Previously known as "C64 65XE NES Debugger".
+Retro Debugger is a real-time debugger for 8-bit computers: Commodore 64, Atari XL/XE, and NES. It embeds full emulator engines (VICE v3.10-WIP, Atari800, NestopiaUE) and provides cycle-accurate debugging through an ImGui-based interface. Previously known as "C64 65XE NES Debugger".
 
 ## Logging
 
