@@ -24,6 +24,7 @@ jobs:
             git \
             libsdl2-dev \
             libglew-dev \
+            libgtk-3-dev \
             libgl1-mesa-dev \
             libglu1-mesa-dev \
             libasound2-dev \
