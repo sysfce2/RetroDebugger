@@ -44,9 +44,19 @@ jobs:
           chmod +x ./tools/make-release/make-release-linux.sh
           ./tools/make-release/make-release-linux.sh
 
+      - name: Unpack release for artifact (avoid double-zip, keep naming convention)
+        id: artifact
+        run: |
+          set -euxo pipefail
+          zip="$(ls releases/RetroDebugger-v*-linux-*.zip | head -1)"
+          name="$(basename "$zip" .zip)"
+          rm -rf artifact && mkdir -p artifact
+          unzip -q "$zip" -d artifact
+          echo "name=$name" >> "$GITHUB_OUTPUT"
+
       - name: Upload release artifact
         uses: actions/upload-artifact@v4
         with:
-          name: RetroDebugger-linux
-          path: releases/*.zip
+          name: ${{ steps.artifact.outputs.name }}
+          path: artifact/
           if-no-files-found: error
