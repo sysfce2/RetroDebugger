@@ -78,7 +78,7 @@ cd RetroDebugger
 ./build-linux.sh
 ```
 
-Remember to have MTEngineSDL library in `./../../MTEngineSDL` folder.
+Remember to have MTEngineSDL library in `./../MTEngineSDL` folder.
 
 # Thanks
 
